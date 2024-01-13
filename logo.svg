@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="280" width="310">
+  <circle  cx="230" cy="50" r="40" stroke="black" stroke-width="3" fill="#e5b567" />
+  <rect y='150' x="-30" width="200" height="30" style="fill:#b4d273; fill-opacity: .6;" transform = "rotate(45 100 100)" />
+   <rect y='140' x="50" width="140" height="30" style="fill:#b4d273; fill-opacity: .6;" transform = "rotate(-45 100 100)" />
+      <rect y='200' width="300" height="70" style="fill:#b4d273;stroke-width:3;stroke:rgb(0,0,0)" />
+</svg>
